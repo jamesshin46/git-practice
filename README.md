@@ -19,3 +19,6 @@ if it is on a software development platform like Horizon. However, it is also im
 If this were a normal software development platform, it could have led to situations such as data breaches, but they would have been mostly contained. Because it is impacting physical technology, however,
 it will be impacting the real world and can cause damages. Therefore, although this leads to a technological advancement, this also opens doors for some risks that must be accounted for, which makes this
 improvement interesting to consider.
+
+##  Comments Maurice Farfan(msf9314)
+I found this article interesting because AI integration into physical devices seems like the next step after the AI technology we have today, and cars are an area where I think it has a lot of potential. This is an area of interest that I have not explored as much, but as with many other areas of technology, it seems like AI is becoming increasingly integrated into my life. I wonder what possibilities could be unlocked by combining AI with car operating systems, both on the beneficial side and in terms of potential hazards. I think the option to remotely work with and test hardware can provide a safer and more efficient way of developing software for cars.
